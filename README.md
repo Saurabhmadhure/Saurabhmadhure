@@ -9,8 +9,7 @@
 <body>
 
 <div>
-  <h1>GIF Player</h1>
-  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+   <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 </div>
 
 </body>
