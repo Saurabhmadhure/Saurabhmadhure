@@ -10,7 +10,7 @@
 
 <div>
   <h1>GIF Player</h1>
-  <img src="https://media.giphy.com/media/kQzL9v0yvrOnBmlaMO/giphy.gif">
+  <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 </div>
 
 </body>
