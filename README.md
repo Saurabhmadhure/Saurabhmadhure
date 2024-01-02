@@ -4,13 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GIF Player</title>
+   
 </head>
 <body>
 
 <div>
   <h1>GIF Player</h1>
-  <img src="[https://example.com/your-gif.gif](https://media.giphy.com/media/kQzL9v0yvrOnBmlaMO/giphy.gif)" alt="Your GIF">
+  <img src="https://media.giphy.com/media/kQzL9v0yvrOnBmlaMO/giphy.gif">
 </div>
 
 </body>
